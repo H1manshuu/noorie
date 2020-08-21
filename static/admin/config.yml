@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: H1manshuu/officedB
+  repo: H1manshuu/Noorie
 
 media_folder: content/assets
 public_folder: ../assets
