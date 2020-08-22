@@ -6,7 +6,7 @@ module.exports = {
     description: `A new initiative to pen down all the thoughts`,
     siteUrl: `https://noorji.netlify.app/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `Himansh66134661`,
     },
   },
   plugins: [
