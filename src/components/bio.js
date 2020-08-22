@@ -36,8 +36,8 @@ function Bio() {
             <p>
               Written by <strong>{author}</strong>
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                Follow me on Twitter
+              <a href={`https://facebook.com/${social.twitter}`}>
+                Follow me on Facebook
               </a>
             </p>
           </Container>

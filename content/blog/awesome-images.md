@@ -4,7 +4,7 @@ date: 2020-06-06T01:22:55.506Z
 title: Birthday Message
 description: I hope every day puts a smile on your face, and whatever you wish for will come true. I hope you never forget me, as I will always remember you. Warm wishes for your Birthday. 
 ---
-![Great Gatsby](/../assets/great2.jpg "Great Gatsby")
+![BirthDay Collage](/../assets/bdaygirl.jpg "Great Gatsby")
 
 ## Have a look at a small video on this special occasion
 
