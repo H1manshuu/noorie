@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     // edit below
     title: `Noorji Personal Blog`,
-    author: `Gatsby`,
+    author: `ManMayur Kaur`,
     description: `A new initiative to pen down all the thoughts`,
     siteUrl: `https://noorji.netlify.app/`,
     social: {
