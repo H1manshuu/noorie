@@ -1,27 +1,20 @@
 ---
-title: Hello World
+title: Noor Jokes
 date: "2015-05-01T22:12:03.284Z"
 ---
+## Queen of all the PJ's.
 
-This is my first post on my new fake blog! How exciting!
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/586015005.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/112511552.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/169965117.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/948940567.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/177647643.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/766053113.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/857138811.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/510294659.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/27566017.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/364545309.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/300388725.jpg "BdayGirl") 
+  ![BirthDay Collage](https://s3.scoopwhoop.com/anj/pjs/184182311.jpg "BdayGirl") 
 
-I'm sure I'll write a lot more interesting things in the future.
-
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
-
-```js
-function helloWorld() {
-  console.log("Hello World!")
-}
-```
+ 
