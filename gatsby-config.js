@@ -117,7 +117,7 @@ module.exports = {
         name: `Gatsby Starter Blog`,
         short_name: `GatsbyJS`,
         start_url: `/`,
-        background_color: `#ffffff`,
+        background_color: `#ebd8d8`,
         theme_color: `#663399`,
         display: `minimal-ui`,
         // edit below
